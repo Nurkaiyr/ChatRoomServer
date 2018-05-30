@@ -1,0 +1,7 @@
+C:\Users\едиген\Desktop\ChatRoom-master\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\едиген\Desktop\ChatRoom-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\едиген\Desktop\ChatRoom-master\Server\bin\Debug\Server.exe.config
+C:\Users\едиген\Desktop\ChatRoom-master\Server\bin\Debug\Server.exe
+C:\Users\едиген\Desktop\ChatRoom-master\Server\bin\Debug\Server.pdb
+C:\Users\едиген\Desktop\ChatRoom-master\Server\obj\Debug\Server.exe
+C:\Users\едиген\Desktop\ChatRoom-master\Server\obj\Debug\Server.pdb
